@@ -1,0 +1,2 @@
+Master=1.6.1 Alpha 8b
+Stable=1.6
