@@ -1,2 +1,2 @@
-Master=1.6.1 Alpha 10
+Master=1.6.1 Alpha 10a
 Stable=1.6
