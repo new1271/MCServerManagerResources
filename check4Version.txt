@@ -1,2 +1,2 @@
-Master=1.6.1 Beta 7
-Stable=1.6
+Master=1.6.1
+Stable=1.6.1
