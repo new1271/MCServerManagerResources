@@ -1,2 +1,2 @@
-Master=1.7 Alpha 3a
+Master=1.7 Alpha 4
 Stable=1.6.2
