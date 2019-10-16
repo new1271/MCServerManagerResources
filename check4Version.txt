@@ -1,2 +1,7 @@
-Master=1.7 Alpha 7e
+Master=1.7 Alpha 7b
+UniM=1.7 Alpha 7b
+WinM=1.7 Alpha 7e
+UniS=1.6.2
+WinS=1.6.2
+WinME=0
 Stable=1.6.2
