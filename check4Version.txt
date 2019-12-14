@@ -1,6 +1,6 @@
-Master=1.7 Beta 2
-UniM=1.7 Beta 2
-WinM=1.7 Beta 2
+Master=1.7 Beta 3
+UniM=1.7 Beta 3
+WinM=1.7 Beta 3
 UniS=1.6.2
 WinS=1.6.2
 WinME=0
