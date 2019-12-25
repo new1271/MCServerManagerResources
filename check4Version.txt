@@ -1,7 +1,7 @@
-Master=1.7 Beta 3
-UniM=1.7 Beta 3
-WinM=1.7 Beta 3
-UniS=1.6.2
-WinS=1.6.2
+Master=1.7
+UniM=1.7
+WinM=1.7
+UniS=1.7
+WinS=1.7
 WinME=0
-Stable=1.6.2
+Stable=1.7
