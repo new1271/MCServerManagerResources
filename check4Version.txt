@@ -1,7 +1,7 @@
-Master=1.7
-UniM=1.7
-WinM=1.7
-UniS=1.7
-WinS=1.7
+Master=1.7.0.1
+UniM=1.7.0.1
+WinM=1.7.0.1
+UniS=1.7.0.1
+WinS=1.7.0.1
 WinME=0
-Stable=1.7
+Stable=1.7.0.1
